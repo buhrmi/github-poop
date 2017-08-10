@@ -1,5 +1,5 @@
 # 💩
 
-Get it here and poop this repo
+Replaces the GitHub Star Button with a Poop Button. Have fun pooping repos.
 
 https://chrome.google.com/webstore/detail/github-poop/iepepilomkehfgjamhjbelhdpgmhiknk
